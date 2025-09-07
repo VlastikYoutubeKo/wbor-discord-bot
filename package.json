@@ -13,13 +13,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/WBOR-91-1-FM/wbor-discord-bot.git"
+    "url": "git+https://github.com/wbor-fm/wbor-discord-bot.git"
   },
   "license": "AGPL-3.0-only",
   "bugs": {
-    "url": "https://github.com/WBOR-91-1-FM/wbor-discord-bot/issues"
+    "url": "https://github.com/wbor-fm/wbor-discord-bot/issues"
   },
-  "homepage": "https://github.com/WBOR-91-1-FM/wbor-discord-bot#readme",
+  "homepage": "https://github.com/wbor-fm/wbor-discord-bot#readme",
   "dependencies": {
     "@discordjs/voice": "^0.18.0",
     "@web-scrobbler/metadata-filter": "^3.2.0",
